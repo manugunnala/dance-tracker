@@ -1,3 +1,15 @@
+
+
+## Project Description 
+This project is a web application to track daily dance practices for different users on a dance team. 
+
+Adapted from tutorial: 
+https://www.youtube.com/watch?v=7CqJlxBYj-M&t=1580s
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
